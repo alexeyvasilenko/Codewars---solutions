@@ -1,0 +1,16 @@
+Training JS #10: loop statement --for
+
+function pickIt(arr){
+  var odd=[],even=[];
+ 
+ for(el of arr){
+   if(el % 2 ===0){
+     even.push(el);
+   
+   }else{
+   odd.push(el);
+   }
+  }
+  
+  return [odd,even];
+}
