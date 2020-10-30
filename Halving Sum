@@ -1,0 +1,10 @@
+https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d/solutions/javascript
+
+function halvingSum(n) {
+let sum = 0;
+ do {
+    sum += n;
+    n = Math.floor(n / 2);
+ } while(n > 0)
+  return sum;
+}
