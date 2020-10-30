@@ -1,0 +1,14 @@
+https://www.codewars.com/kata/57216d4bcdd71175d6000560/train/javascript
+
+function padIt(str,n){
+ let result = str;
+  do {
+  result = "*" + result;
+  n--;
+    if (n>0) {
+    result = result + "*";
+    n--;
+    }
+  } while (n>0); 
+  return result;
+}
