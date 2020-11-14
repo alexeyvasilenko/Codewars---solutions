@@ -1,5 +1,10 @@
-https://www.codewars.com/kata/56c24c58e0c0f741d4001aef/train/javascript
+Count NaN in Array
 
-const isReallyNaN = (val) => {
-  return Number.isNaN(val);
-};
+function countNaN(arr){
+let count = 0;
+  for (let i = 0; i < arr.length; i++){
+    if(Number.isNaN(arr[i]) === true)
+      count++;
+  }
+  return count;
+}

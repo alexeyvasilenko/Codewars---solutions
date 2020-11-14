@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf49eb9b-0f7c-4dda-b53a-efd668c3d64f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -44,7 +45,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605125480315</updated>
-      <workItem from="1605125481561" duration="3115000" />
+      <workItem from="1605125481561" duration="3562000" />
+      <workItem from="1605390288176" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="add task 'is it a rainbow?'">
       <created>1605125934573</created>
@@ -81,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605189625897</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add Filter the number">
+      <created>1605281757430</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605281757430</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add isReallyNaN">
+      <created>1605281986251</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605281986251</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,20 +110,22 @@
     <MESSAGE value="Simple consecutive pairs" />
     <MESSAGE value="Add &quot;Get the mean of an array&quot;" />
     <MESSAGE value="Add correct &quot;Get the mean of an array&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add correct &quot;Get the mean of an array&quot;" />
+    <MESSAGE value="Add Filter the number" />
+    <MESSAGE value="Add isReallyNaN" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add isReallyNaN" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="383" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605189304521">
+    <state x="383" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605281941670">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="383" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1605189304521" />
-    <state x="508" y="0" width="846" height="824" key="CommitChangelistDialog2" timestamp="1605189625601">
+    <state x="383" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1605281941670" />
+    <state x="508" y="0" width="846" height="824" key="CommitChangelistDialog2" timestamp="1605281986009">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="508" y="0" width="846" height="824" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1605189625601" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605189946545">
+    <state x="508" y="0" width="846" height="824" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1605281986009" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605281991859">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605189946545" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605281991859" />
   </component>
 </project>
