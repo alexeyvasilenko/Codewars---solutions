@@ -1,0 +1,7 @@
+If Number.isNaN() method task:
+
+function multBy5(value){
+  if(Number.isNaN(value) === true)
+  return "Value is NaN";
+  else return value * 5;
+}
