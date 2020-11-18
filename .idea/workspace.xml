@@ -47,6 +47,8 @@
       <updated>1605125480315</updated>
       <workItem from="1605125481561" duration="3562000" />
       <workItem from="1605390288176" duration="34000" />
+      <workItem from="1605390359942" duration="2378000" />
+      <workItem from="1605725869236" duration="488000" />
     </task>
     <task id="LOCAL-00001" summary="add task 'is it a rainbow?'">
       <created>1605125934573</created>
@@ -97,7 +99,98 @@
       <option name="project" value="LOCAL" />
       <updated>1605281986251</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Count NaN in Array">
+      <created>1605390468359</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605390468359</updated>
+    </task>
+    <task id="LOCAL-00009" summary="If Number.isNaN() method task:">
+      <created>1605391015585</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605391015585</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Create Count cubes in a Menger Sponge">
+      <created>1605474519851</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605474519852</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Create N-th Power">
+      <created>1605474611364</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605474611364</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Create Square Every Digit">
+      <created>1605474689263</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605474689263</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Create Closest elevator">
+      <created>1605474844414</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605474844414</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Create All Star Code Challenge #22">
+      <created>1605548920633</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605548920635</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Create Holiday VIII - Duty Free">
+      <created>1605548997889</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605548997889</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Create Price of Mangoes">
+      <created>1605549054107</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605549054107</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Create easy logs">
+      <created>1605549145913</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605549145914</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Create Training JS #34: methods of Math---pow() sqrt() and cbrt()">
+      <created>1605549229247</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605549229247</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Create TImproving Math.round(x)">
+      <created>1605725966998</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1605725966998</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Create Tortoise racing">
+      <created>1605726133693</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1605726133693</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,20 +205,33 @@
     <MESSAGE value="Add correct &quot;Get the mean of an array&quot;" />
     <MESSAGE value="Add Filter the number" />
     <MESSAGE value="Add isReallyNaN" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add isReallyNaN" />
+    <MESSAGE value="Count NaN in Array" />
+    <MESSAGE value="If Number.isNaN() method task:" />
+    <MESSAGE value="Create Count cubes in a Menger Sponge" />
+    <MESSAGE value="Create N-th Power" />
+    <MESSAGE value="Create Square Every Digit" />
+    <MESSAGE value="Create Closest elevator" />
+    <MESSAGE value="Create All Star Code Challenge #22" />
+    <MESSAGE value="Create Holiday VIII - Duty Free" />
+    <MESSAGE value="Create Price of Mangoes" />
+    <MESSAGE value="Create easy logs" />
+    <MESSAGE value="Create Training JS #34: methods of Math---pow() sqrt() and cbrt()" />
+    <MESSAGE value="Create TImproving Math.round(x)" />
+    <MESSAGE value="Create Tortoise racing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Tortoise racing" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="383" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605281941670">
+    <state x="383" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605726015887">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="383" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1605281941670" />
-    <state x="508" y="0" width="846" height="824" key="CommitChangelistDialog2" timestamp="1605281986009">
+    <state x="383" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1605726015887" />
+    <state x="508" y="23" width="846" height="823" key="CommitChangelistDialog2" timestamp="1605726133436">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="508" y="0" width="846" height="824" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1605281986009" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605281991859">
+    <state x="508" y="23" width="846" height="823" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1605726133436" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605726137786">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605281991859" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605726137786" />
   </component>
 </project>
