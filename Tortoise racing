@@ -1,0 +1,16 @@
+https://www.codewars.com/kata/55e2adece53b4cdcb900006c/train/javascript
+
+function race(v1, v2, g) {
+
+  let willCatch = v2 - v1;
+  let catchTime = g / willCatch;
+  let totalSeconds = catchTime * 60 * 60;
+  let seconds = totalSeconds % 60;
+  let totalMinutes = totalSeconds / 60;
+  let minutes = totalMinutes % 60;
+  let hours = totalMinutes / 60;
+
+  if (v1 >= v2) { return null; }
+  return [Math.floor(hours),Math.floor(minutes),Math.floor(seconds)];
+
+}
