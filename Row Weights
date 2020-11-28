@@ -1,0 +1,6 @@
+https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9/train/javascript
+
+function rowWeights(array){
+  let t1, t2;
+  return [ t1 = array.filter (( x, i ) => i % 2 == 0 ).reduce(( a,item ) => a + item, 0 ), t2 = array.filter(( x, i )=> i % 2 != 0 ).reduce(( a, item ) => a + item, 0 ) ]
+}
