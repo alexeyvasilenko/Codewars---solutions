@@ -1,0 +1,6 @@
+https://www.codewars.com/kata/586566b773bd9cbe2b000013/train/javascript
+
+function noRepeat(str) {
+  str = str.split('');
+  return str = str.find(el => str.indexOf(el) === str.lastIndexOf(el));
+}
