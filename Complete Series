@@ -1,0 +1,12 @@
+https://www.codewars.com/kata/580a4001d6df740d61000301/train/javascript
+
+function completeSeries(arr) {
+  let dup = arr.filter(el => arr.indexOf(el) !== arr.lastIndexOf(el));
+  let arr1 = []
+  if (dup.length > 0) return [0]
+  else{
+    for (let i = 0; i <= Math.max(...arr); i++){
+    arr1.push(i)
+    }
+  }return arr1
+}
